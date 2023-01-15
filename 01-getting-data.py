@@ -1,4 +1,11 @@
 # Databricks notebook source
+# MAGIC %md
+# MAGIC ### Databricks datasets
+# MAGIC 
+# MAGIC https://docs.databricks.com/dbfs/databricks-datasets.html#databricks-datasets-databricks-datasets
+
+# COMMAND ----------
+
 # MAGIC %fs ls /databricks-datasets/
 
 # COMMAND ----------
